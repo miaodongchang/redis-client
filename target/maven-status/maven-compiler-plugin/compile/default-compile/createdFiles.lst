@@ -1,0 +1,5 @@
+com\miao\redisClient\service\IRedisService.class
+com\miao\redisClient\config\FastJsonRedisSerializer.class
+com\miao\redisClient\RedisClientApplication.class
+com\miao\redisClient\service\RedisService.class
+com\miao\redisClient\config\RedisConfig.class
